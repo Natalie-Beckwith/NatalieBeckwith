@@ -1,6 +1,7 @@
 {% include navigation.html %}
 
 # Week #1:
+Review Ticket: https://github.com/Natalie-Beckwith/NatalieBeckwith/issues/2
 
 ## 5.3
 Notes:
@@ -30,6 +31,7 @@ GitHub Page Actions:
 2) During my AmLit class, I can make a google form about what are the best books that the students in that class can take so everyone can give my group input on what the best books are in my AmLit class.
 
 # Week #0
+Review Ticket: https://github.com/Natalie-Beckwith/NatalieBeckwith/issues/1
 
 ## 5.1
 Notes:
