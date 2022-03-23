@@ -38,9 +38,9 @@ Notes:
      * package data structures together
      * Name class - ex: Fibonacci
      
-*     class Fibonacci():
-     *        def __init__(self):
-          *            self.fiboSeg = [0, 1, 1, 2, 3, 5, 8, 13, 21]
+* class Fibonacci():
+     * def __init__(self):
+          * self.fiboSeg = [0, 1, 1, 2, 3, 5, 8, 13, 21]
 * Set breakpoint to ensure that code works
      * Computer stops at where the breakpoint was in your code
 
