@@ -4,14 +4,43 @@
 
 ## 5.5
 Notes:
-* .
+* In some cases, it is ok for you to claim something as your own - must have a license
+* Free has a cost
+     * If you derive a piece of software with a free license, your work is also free use
+* If you add a piece of code that has a free license, then you cost a company billions of dollors for that small block of code
+* Different types:
+     * Create Commons
+     * GPL
+     * Open Source
 
 GitHub Actions:
 1. 
 
 ## 5.6
 Notes:
-* .
+* Why is safe computing important
+     * To protect our information
+* Things to keep secret
+     * Social security
+     * Address
+     * Phone
+     * Date of Birth
+* Multi-factor authentication to make accounts secure
+* Deploy website - find information
+* Sometimes its good to post information
+* Want people to know who you are
+* Be mindful of what information you share on the internet
+* SSL
+* Organization Management:
+     * to organize our own information in our code
+     * as we build it up, it will be neatly arranged and easy to read
+* OOP and Creating a Class
+     * package data structures together
+     * Name class - ex: Fibonacci
+     
+*     class Fibonacci():
+*        def __init__(self):
+*            self.fiboSeg = [0, 1, 1, 2, 3, 5, 8, 13, 21]
 
 GitHub Actions:
 1. 
