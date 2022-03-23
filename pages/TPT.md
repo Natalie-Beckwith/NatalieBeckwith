@@ -45,7 +45,7 @@ Notes:
      * Computer stops at where the breakpoint was in your code
 
 GitHub Actions:
-1. 
+1. .
 
 # Week #1:
 
