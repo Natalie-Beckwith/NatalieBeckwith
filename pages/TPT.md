@@ -14,7 +14,8 @@ Notes:
      * Open Source
 
 GitHub Actions:
-1. 
+1. My group is using a MIT License for our project.
+2. The MIT License is user and open-source friendly and very easy to access
 
 ## 5.6
 Notes:
@@ -45,7 +46,14 @@ Notes:
      * Computer stops at where the breakpoint was in your code
 
 GitHub Actions:
-1. .
+1. On college board it asks you to enter an email, your birthday, and other personal information. On my MacBook, I use a fingerprint scanner that automatically fills in my passwords when I am logging into websites
+2. It depends on what the webpage is. If the website is a school website, then I would be ok with sharing my information for the purpose of school.
+3. A good password has multiple different characters and capitals, it's some very complax that is almost impossible to guess. Another step is two-factor authentication.
+4. 
+     * Symmetric: type of encryption where only one key is used
+     * Asymmetric: uses a pair of related keys
+5. An example of symmetrical symmetrical encryption is through card transactions where PII needs to be protected
+6. I have made a mistake of clicking on something that was clickbait. I have also downloaded something that eventually gave my computer a malware virus.
 
 # Week #1:
 
