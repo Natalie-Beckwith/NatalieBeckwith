@@ -1,3 +1,1 @@
-{% include navigation.html %}
-
-# Welcome to Natalie's Repository! :)
+Welcome to Natalie's Repository! :)
