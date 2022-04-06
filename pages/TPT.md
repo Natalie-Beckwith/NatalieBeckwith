@@ -1,5 +1,22 @@
 {% include navigation.html %}
 
+# Week #4:
+
+## Accounts and Login
+
+Notes:
+* Login to protect database
+* Sponsor: Add login to different pages
+* Encrypted passwords in database
+* app = Flask(__name__)
+* MVC - model view controller
+* __init__(self, name, email, password, phone):
+* html files: view in MVC
+* MVC - control, view driver & 
+
+# Week #3:
+(Crossover Coding - no TPT this week)
+
 # Week #2:
 
 ## 5.5
