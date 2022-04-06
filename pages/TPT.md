@@ -12,7 +12,8 @@ Notes:
 * MVC - model view controller
 * __init__(self, name, email, password, phone):
 * html files: view in MVC
-* MVC - control, view driver & 
+* MVC - control, view driver
+* 
 
 # Week #3:
 (Crossover Coding - no TPT this week)
