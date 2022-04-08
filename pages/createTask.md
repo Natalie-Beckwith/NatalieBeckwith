@@ -22,38 +22,16 @@
 5. Without the lists, it would be very difficult and time consuming to store each number inside variables and then have to pass each variable into a function that squares each number the user typed in. The lists inside the code make the program easier to read.
 
 ### 3c.
-1.
-* for num in range (0, 5):
-  * number = int (input("Enter a number "))
-  * numSequence.append(number)
-  * return numSequence
-2.
-* for num in sequence:
-  * squares = num * num
-  * squaresList.append(squares)
-  * return squaresList
+1. for num in range (0, 5): number = int (input("Enter a number ")) numSequence.append(number) return numSequence
+2. for num in sequence: squares = num * num squaresList.append(squares) return squaresList
 3. This procedure shows the computer returning the numbers in the list that the user inputted. It also stores the numbers in the list numSequence[].
 4. This procedure shows the computer returning the numbers after they have been squared. The function prints out each element in the list after it have been squared.
 
 ### 3d.
-1. 
-* One of the calls in the code is a function telling the computer to square every number the user entered. The numbers are passed into the list as integers, and returned as integers when they are squared.
+1. One of the calls in the code is a function telling the computer to square every number the user entered. The numbers are passed into the list as integers, and returned as integers when they are squared. if __name__ == "__main__": numSequence = getNums() numSquares = squareNumbers(numSequence)
 
-* if __name__ == "__main__":
-  * numSequence = getNums()
-  * numSquares = squareNumbers(numSequence)
+2. squaresList.append(squares) squaresList = [] for num in sequence: squares = num * num squaresList.append(squares)
 
-2. 
-* squaresList.append(squares)
-
-* squaresList = []
-  * for num in sequence:
-  * squares = num * num
-  * squaresList.append(squares)
-
-3. 
-* return numSequence
-
-* return squaresList
+3. return numSequence return squaresList
 
 [Video of Runtime](https://www.awesomescreenshot.com/video/8313811?key=4ab9f1d893abc307f7a73ec22eac6e53 "Create Task Video")
