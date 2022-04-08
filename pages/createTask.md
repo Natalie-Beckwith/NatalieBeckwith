@@ -21,7 +21,7 @@
 4. The data in numSequence[] represent how the comouter will prompt the user to enter 5 numbers, and those numbers will be stored inside the list. With squaresList[], the computer squares each number in the origional list and outputs them.
 5. Without the lists, it would be very difficult and time consuming to store each number inside variables and then have to pass each variable into a function that squares each number the user typed in. The lists inside the code make the program easier to read.
 
-### 3C.
+### 3c.
 1.
 * for num in range (0, 5):
   * number = int (input("Enter a number "))
@@ -35,7 +35,7 @@
 3. This procedure shows the computer returning the numbers in the list that the user inputted. It also stores the numbers in the list numSequence[].
 4. This procedure shows the computer returning the numbers after they have been squared. The function prints out each element in the list after it have been squared.
 
-### 3D.
+### 3d.
 1.
 * One of the calls in the code is a function telling the computer to square every number the user entered. The numbers are passed into the list as integers, and returned as integers when they are squared.
 
