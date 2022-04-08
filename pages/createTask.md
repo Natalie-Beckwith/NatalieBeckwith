@@ -36,11 +36,24 @@
 4. This procedure shows the computer returning the numbers after they have been squared. The function prints out each element in the list after it have been squared.
 
 ### 3D.
-1. One of the calls in the code is a function telling the computer to square every number the user entered. The numbers are passed into the list as integers, and returned as integers when they are squared.
+1.
+* One of the calls in the code is a function telling the computer to square every number the user entered. The numbers are passed into the list as integers, and returned as integers when they are squared.
+
+* if __name__ == "__main__":
+  * numSequence = getNums()
+  * numSquares = squareNumbers(numSequence)
+
 2. 
 * squaresList.append(squares)
-4. 
 
+* squaresList = []
+  * for num in sequence:
+  * squares = num * num
+  * squaresList.append(squares)
 
+3.
+* return numSequence
 
-[Video](https://www.awesomescreenshot.com/video/8313811?key=4ab9f1d893abc307f7a73ec22eac6e53 "Create Task Video")
+* return squaresList
+
+[Video of Runtime](https://www.awesomescreenshot.com/video/8313811?key=4ab9f1d893abc307f7a73ec22eac6e53 "Create Task Video")
