@@ -43,7 +43,7 @@
   * numSequence = getNums()
   * numSquares = squareNumbers(numSequence)
 
-2. 
+2.
 * squaresList.append(squares)
 
 * squaresList = []
