@@ -34,4 +34,5 @@
 
 3. return numSequence return squaresList
 
-[Video of Runtime](https://www.awesomescreenshot.com/video/8313811?key=4ab9f1d893abc307f7a73ec22eac6e53 "Create Task Video")
+### Video of Runtime
+[Link](https://www.awesomescreenshot.com/video/8313811?key=4ab9f1d893abc307f7a73ec22eac6e53 "Create Task Video")
