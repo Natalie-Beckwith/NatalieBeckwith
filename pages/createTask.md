@@ -14,11 +14,9 @@
 * def getNums():
     * numSequence = []
     * print("Enter a sequence of 5 numbers: ")
-
 2.
 * def squareNumbers(sequence):
   * squaresList = []
-
 3. The lists being used in these code segments are call numSequence[] and squaresList[].
 4. The data in numSequence[] represent how the comouter will prompt the user to enter 5 numbers, and those numbers will be stored inside the list. With squaresList[], the computer squares each number in the origional list and outputs them.
 5. Without the lists, it would be very difficult and time consuming to store each number inside variables and then have to pass each variable into a function that squares each number the user typed in. The lists inside the code make the program easier to read.
@@ -29,16 +27,20 @@
   * number = int (input("Enter a number "))
   * numSequence.append(number)
   * return numSequence
-
-
 2.
 * for num in sequence:
   * squares = num * num
   * squaresList.append(squares)
   * return squaresList
-
 3. This procedure shows the computer returning the numbers in the list that the user inputted. It also stores the numbers in the list numSequence[].
 4. This procedure shows the computer returning the numbers after they have been squared. The function prints out each element in the list after it have been squared.
 
 ### 3D.
-1. 
+1. One of the calls in the code is a function telling the computer to square every number the user entered. The numbers are passed into the list as integers, and returned as integers when they are squared.
+2. 
+* squaresList.append(squares)
+4. 
+
+
+
+[Video](https://www.awesomescreenshot.com/video/8313811?key=4ab9f1d893abc307f7a73ec22eac6e53 "Create Task Video")
