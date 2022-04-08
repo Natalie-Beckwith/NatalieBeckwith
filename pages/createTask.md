@@ -11,3 +11,24 @@
 
 ### 3b.
 1. 
+* def getNums():
+    * numSequence = []
+    * print("Enter a sequence of 5 numbers: ")
+
+  * for num in range (0, 5):
+    * number = int (input("Enter a number "))
+    * numSequence.append(number)
+    * return numSequence
+
+2.
+* def squareNumbers(sequence):
+  * squaresList = []
+
+  * for num in sequence:
+    * squares = num * num
+    * squaresList.append(squares)
+    * return squaresList
+
+3. The lists being used in these code segments are call numSequence[] and squaresList[].
+4. The data in numSequence[] represent how the comouter will prompt the user to enter 5 numbers, and those numbers will be stored inside the list. With squaresList[], the computer squares each number in the origional list and outputs them.
+5. 
