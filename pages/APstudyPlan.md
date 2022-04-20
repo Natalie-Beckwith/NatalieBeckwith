@@ -6,14 +6,13 @@
 
 ## Weekly Schedule:
 
-| Day | Tasks |
-| :----: | :----: |
+| Day of the Week: | To-Do in Class: |
+| :----: | :---- |
 | Monday | Review flashcards on vocab, try practice problems to prepare for weekly quizzes |
 | Tuesday | Quiz day! |
 | Wednesday | Do quiz corrections, go over missed problems and re-work them |
 | Thurday | Quiz day! |
 | Friday | Do quiz corrections, go over missed problems and re-work them, rewatch old CB videos |
-
 
 ## Quiz #1 Corrections:
 
@@ -25,6 +24,4 @@
 32. Moving the statement in line 5 so that it appears between lines 2 and 3
 39. The correct answer is 80 seconds
 46. The Internet was not designed to be completely secure. The protocols used on the Internet do not ensure that all communications are secure.
-
-
 
