@@ -2,10 +2,10 @@
 
 # Study Plan for AP Test:
 
+![planner](https://c1.wallpaperflare.com/preview/987/720/965/planner-plan-planning-to-do-to-do-list-august.jpg)
 
 ## Weekly Schedule:
 
-![planner](https://c1.wallpaperflare.com/preview/987/720/965/planner-plan-planning-to-do-to-do-list-august.jpg)
 
 ### Monday: 
 * Review flashcards on vocab
