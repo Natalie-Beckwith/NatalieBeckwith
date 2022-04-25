@@ -25,3 +25,25 @@
 (39) The correct answer is 80 seconds <br>
 (46) The Internet was not designed to be completely secure. The protocols used on the Internet do not ensure that all communications are secure.
 
+## Quiz # 2 Corrections:
+
+(1) The efficiency of a parallel solution is limited by a sequential portion. Eventually, adding parallel portions will no longer meaningfully increase efficiency. <br>
+(4) Some individuals lack access to computing devices because the devices are prohibitively expensive. Offering low-cost devices may help reduce the digital divide for these individuals. <br>
+(5) Designing and building a medical robot is likely to require specialized equipment and expertise that is unlikely to be available to individuals distributed around the world. <br>
+(6) The sum is too large to be represented with a 4-bit representation. <br>
+(8) Open-source software can be continually updated without the original developers once it becomes available to the public. <br>
+(12) This type of transaction is between a user and a company and does not rely on the use of information contributed by a large number of users. <br>
+(16) The most active users of the application are unlikely to be representative of all users of the application. Using data from only this group may lead to bias in the application. <br>
+(22) IPv6 addresses are longer than IPv4 addresses. The length of the address has no direct effect on routing speed. <br>
+(24) Redundancy within a system usually requires additional resources, not fewer. A path within a redundant system may be longer than the shortest possible path. <br>
+(26) Having a variety of backgrounds represented on a team can enable the team to make use of the different strengths of individual team members. <br>
+(27) Unsolvable problems cannot be solved with an algorithm. <br>
+(30) The decimal equivalent of this triplet is (75, 0, 65). <br>
+(31) The binary RGB triplet for light yellow is (11111111, 11111111, 11100000). <br>
+(32) Four bits can represent 2^4, or 16 pieces of information, so it is not necessary to add extra bits. <br>
+(36) This situation is consistent with the behavior of an overflow error. If the software used to update the count failed, it would not increase to the point of wrapping around to a negative number. <br>
+(40) Citizen science is typically conducted with large groups of volunteers, rather than an individual citizen. <br>
+(43) The given code segment causes the robot to end in the lower-right corner of the grid, facing toward the top of the grid. In this code segment, count is 0 in the first iteration of the outer loop, so the robot rotates left, but does not move forward. The robot ends in the upper-right corner of the grid, facing toward the top of the grid. <br>
+(45) The desired information cannot be determined with these two spreadsheets because students with grade point averages of 3.5 or less cannot be identified. <br>
+(50) The average total points earned per student can also be determined using the result of the total points calculation for each student. The average increase in total points per student as a result of the score replacement policy can also be determined by calculating the differences between each student score before and after the replacement policy was applied. <br
+        
