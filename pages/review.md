@@ -1,5 +1,9 @@
 {% include navigation.html %}
 
+[Week 5 Review Ticket](https://github.com/Natalie-Beckwith/NatalieBeckwith/issues/6)
+
+[Week 4 Review Ticket](https://github.com/Natalie-Beckwith/NatalieBeckwith/issues/5)
+
 [Week 3 Review Ticket](https://github.com/Natalie-Beckwith/NatalieBeckwith/issues/4)
 
 [Week 2 Review Ticket](https://github.com/Natalie-Beckwith/NatalieBeckwith/issues/3)
