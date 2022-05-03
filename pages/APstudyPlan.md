@@ -47,3 +47,19 @@
 (45) The desired information cannot be determined with these two spreadsheets because students with grade point averages of 3.5 or less cannot be identified. <br>
 (50) The average total points earned per student can also be determined using the result of the total points calculation for each student. The average increase in total points per student as a result of the score replacement policy can also be determined by calculating the differences between each student score before and after the replacement policy was applied. <br
         
+## Quiz #3 Corrections:
+(2) While some solutions benefit from parallel computation, not all problems can be solved with an algorithm.
+(7) The procedure will run without error and return a value.
+(14) Since "Diane" is not in nameList, the procedure will display 0, indicating that the procedure worked as intended.
+(17) For the list open bracket, 20, 10, 30, 40, close bracket, 1 0 is the first value smaller than the first number in the list, so the procedure returns the correct value 1 0.
+(19) This information can be determined by comparing each student’s original average to the course grade after the lowest score was dropped.
+(24) This algorithm will turn on the motor in some cases when the gate sensor is not activated.
+(31) The distance between two numbers is obtained by taking the absolute value of the difference between the two numbers, not by taking the sum of the absolute values of the two numbers.
+(33) The most active users of the application are unlikely to be representative of all users of the application. Using data from only this group may lead to bias in the application.
+(34) This algorithm has linear efficiency, so it runs in a reasonable amount of time. Therefore, a heuristic is not appropriate.
+(35) Geolocation data can be accessed by the Web site, which can use this information to provide album reviews from nearby users.
+(37) This system uses wireless technology to find a lost pet, rather than the contributions of many individuals.
+(38) Publishing an e-book with a no-rights-reserved Creative Commons license enables people to freely make use of its content.
+(39) The approximation 31.8 million would be a better estimate for year 13.
+(42) Using 8 bits will allow for up to 256 sequences because 28=256 2^8=256. However, a unique bit sequence can be assigned using only 7 bits because 27=128 2^7=128.
+(47) This code segment incorrectly sets bonus to score when score > 100.
