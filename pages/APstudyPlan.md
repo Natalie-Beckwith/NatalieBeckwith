@@ -63,3 +63,11 @@
 (39) The approximation 31.8 million would be a better estimate for year 13. <br>
 (42) Using 8 bits will allow for up to 256 sequences because 28=256 2^8=256. However, a unique bit sequence can be assigned using only 7 bits because 27=128 2^7=128. <br>
 (47) This code segment incorrectly sets bonus to score when score > 100. <br>
+
+## Quiz #5 Corrections:
+
+(14) A simulation is run on a computer and is not likely to require input from individuals distributed around the world. <br>
+(17) Version I calls GetPrediction once for each element of idList, while version II calls GetPrediction twice for each element of idList (plus one more time at the end). Therefore, version II takes more than 1 minute longer than version I. <br>
+(18) A public key is used to encrypt messages, while a private key is used to decrypt messages. Public key encryption is still considered secure even if a public key is obtained by an unauthorized individual. <br>
+(27) This statement does not provide enough information to conclude that the problem is undecidable. This states that for one instance of the problem, the algorithm runs in an unreasonable amount of time. If it could be shown that an algorithm can be constructed that is always capable of providing a correct yes-or-no answer for all other instances of this problem, whether the algorithms run in a reasonable or unreasonable amount of time, then this problem would be decidable. <br>
+(36) The user’s browser makes a request for the file, and the file is broken into packets by the server for transmission. The user’s browser does not request each packet in order. <br>
