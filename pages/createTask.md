@@ -36,3 +36,10 @@
 
 ### Video of Runtime
 <iframe frameBorder='0' width='640' height='360' webkitallowfullscreen mozallowfullscreen allowfullscreen src="https://www.awesomescreenshot.com/embed?id=8313811&shareKey=4ab9f1d893abc307f7a73ec22eac6e53"></iframe>
+
+
+### Comments
+* review rubric to see if code matches each requirement
+* look at examples of written responses
+
+
