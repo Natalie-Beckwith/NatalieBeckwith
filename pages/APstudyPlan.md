@@ -64,7 +64,7 @@
 (42) Using 8 bits will allow for up to 256 sequences because 28=256 2^8=256. However, a unique bit sequence can be assigned using only 7 bits because 27=128 2^7=128. <br>
 (47) This code segment incorrectly sets bonus to score when score > 100. <br>
 
-## Quiz #5 Corrections:
+## Quiz #5 Corrections: 45/50
 
 (14) A simulation is run on a computer and is not likely to require input from individuals distributed around the world. <br>
 (17) Version I calls GetPrediction once for each element of idList, while version II calls GetPrediction twice for each element of idList (plus one more time at the end). Therefore, version II takes more than 1 minute longer than version I. <br>
