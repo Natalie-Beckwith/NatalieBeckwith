@@ -2,6 +2,14 @@
 
 # Week 8:
 
+## Blockachain Tech Talk
+
+Notes:
+* .
+
+Reflection:
+* 
+
 ## Markdown using SQL Database:
 
 Vocab:
