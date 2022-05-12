@@ -76,7 +76,7 @@ Notes:
 * 84% of enterprises are looking at blockchains
 * Important to understand how blockchain works
 
-Reflection:
+Reflection: <br>
 Bitcoin is a type of cryptocurrency that allows for people to make online transactions. Bitcoin is one of the most popular types of blockchains. A blockchain is a shared database that stores information. In Bitcoin’s case, the blockchain keeps a collection, or block of each transaction ever made on Bitcoin. I learned the uses of hashing, which is a function that figures out how to solve for a transaction. You will always produce the same amount of data, and once you change a single byte of a blockchain, the hash is destroyed. Each device can access Bitcoin just by connecting to the blockchain and running all existing transactions. After the presentation, I did not know that Bitcoin runs on no central network, I always thought something as important as cryptocurrency, to be stored inside a central bank, sort of like how real central banks oversee other banking systems and controls their money supply. I also found it fascinating that Bitcoin eliminates inflation because Bitcoin always has the same amount of cryptocurrency. 
 
 ## Markdown using SQL Database:
