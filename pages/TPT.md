@@ -2,9 +2,11 @@
 
 # Week 8:
 
-## Markdown Notes using SQL Database:
-* 
+## Markdown using SQL Database:
 
+Notes:
+* .
+* .
 
 # Week #4:
 
