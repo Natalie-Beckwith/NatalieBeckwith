@@ -2,13 +2,82 @@
 
 # Week 8:
 
-## Blockachain Tech Talk
+## Blockchain Tech Talk
 
 Notes:
-* .
+* Blockchain - ex: Bitcoin
+* Architecture
+* Beyond Bitcoin
+* US printing more money
+* Harder to buy products
+* ex: cost of a house is increasing
+* Bitcoin’s value does not change
+* Cannot be created
+* Skills Companies need:
+* Understand technology
+* Allows flexibility
+* History:
+* Blockchain has been around a long time - 1982
+* Bitcoin was created in 2009
+* Crypto-currency is created through blockchains
+* Certain amount of Bitcoin 
+* The creator of Bitcoin is not know
+* What does the Bitcoin blockchain do? - keeps track of the amount of Bitcoin there is
+* Autherium blockchain - takes Bitcoin and improves it
+* Saves affect of execution from blockchain
+* Network architecture:
+* Certain server network
+* Bitumen
+* No certain server
+* Communication through protocols
+* Hashing - technology that allows you to generate something
+* When you tamper with one byte - the hash no longer exists
+* You only hash the block of contents once, you don’t hash the hash
+* Consensus Protocol
+* Two types - Highway 2.0 and 3.0
+* Uses hashing to solve problems
+* As more people use it, hashing increases
+* Producing bad block is almost impossible because it takes more work to produce a block, don’t want effort to be wasted
+* Proof of stake - electricity is swapped out for bonding
+* Nodes in network agree on a set of transactions
+* No central coordinating authority
+* Consensus - solution to a theoretical problem in CS
+* Byzantine theory - If you have 2 generals that are sending messengers to a warfront, how will you guarantee the troops will not be defeated?
+* Need order to make sure the protocol is decentralized
+* Anyone can run it, and shut it off
+* Has to be safe and live
+* Safety - When I make a transaction, it guarantees it won’t be wound back
+* Doesn’t add blocks - dead
+* User proposes block that the networks consider safe, and they add the block to the blockchain
+* Sends transaction in less than 3 hours
+* Central banks are afraid of Bitcoin because it’s very decentralized, and secure, anyone can access them
+* At a minimum, contains runtime, network, consensus protocol layer, global state tri
+* Block - a memory of a set of past transactions
+* Each block has a certain number of 
+* Tip of block is most recent transactions
+* Like a giant book
+* Lists set of transactions
+* One large book, containing every transaction ever made
+* 2 TB disk space of the global chain
+* Re-running all existing transactions
+* Block chains are basically databases
+* Each computer stays in touch by connecting to the global server
+* APIs to communicate with accept transaction
+* Client APIs - queue all transactions and processed into blocks
+* People keep cryptos in keys
+* Remember, you have to get a leisure to secure crypto
+* Ensures you have ownership over crypto
+* Asymmetrical cryptography - address key, or secret keys
+* Secret keys should never be shared - how to access account and how to send crypto
+* Public keys can see how much crypto someone has and can send crypto to someone
+* Smart contract
+* Runs on certain criteria
+* Participants get all money they need
+* 84% of enterprises are looking at blockchains
+* Important to understand how blockchain works
 
 Reflection:
-* 
+Bitcoin is a type of cryptocurrency that allows for people to make online transactions. Bitcoin is one of the most popular types of blockchains. A blockchain is a shared database that stores information. In Bitcoin’s case, the blockchain keeps a collection, or block of each transaction ever made on Bitcoin. I learned the uses of hashing, which is a function that figures out how to solve for a transaction. You will always produce the same amount of data, and once you change a single byte of a blockchain, the hash is destroyed. Each device can access Bitcoin just by connecting to the blockchain and running all existing transactions. After the presentation, I did not know that Bitcoin runs on no central network, I always thought something as important as cryptocurrency, to be stored inside a central bank, sort of like how real central banks oversee other banking systems and controls their money supply. I also found it fascinating that Bitcoin eliminates inflation because Bitcoin always has the same amount of cryptocurrency. 
 
 ## Markdown using SQL Database:
 
