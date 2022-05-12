@@ -4,9 +4,28 @@
 
 ## Markdown using SQL Database:
 
+Vocab:
+* **Persistent Data** - data that stays even if you reload the page
+* **One-to-One Relationship** - one on one
+* **One-to-Many Relationship** - one person on many people
+* **Many-to-One Relationship** - many people to one person
+* **Many-to-Many Relationship** - many people to many people
+
 Notes:
-* .
-* .
+* Frontend features:
+    * Textbox for where to type note
+    * Button to submit note
+* Backend features:
+    * Requires user login
+    * converts MD syntax to HTML (in textbox)
+    * ForeignKey - every note needs to be tied to a specific user
+          * establishes relationships between tables
+          * When you want to have a One-to-Many Relationship, add a new table
+
+To-Do:
+* Try to recreate MD SQL Notes page on CSP Coders Example for website - can use something similar to teacher creating assignments for students
+* Tutorial: https://www.sqlalchemy.org/library.html#tutorials, try to get into Python shell and follow along
+* Still using same database from login, just adding more tables to that database (one of the tables is Notes)
 
 # Week #4:
 
